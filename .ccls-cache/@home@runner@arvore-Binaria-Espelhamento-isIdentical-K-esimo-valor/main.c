@@ -7,6 +7,7 @@ struct node {
   struct node *right;
 };
 
+
 typedef struct node Node;
 
 Node *newNode(int data);
